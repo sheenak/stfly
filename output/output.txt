@@ -1,0 +1,11 @@
+Customer_ID,Last_Name,LTV
+k95rg5p97,Carlos,37142.86
+38cr32m63,Sara,5942.86
+ne240234ds,Rene,5813.6
+01t34c7h8fc23,Aaron,3383.71
+h230csf23,Anderson,2277.6
+r32ss234,Crane,2078.96
+32f72c7d8g38,Suri,744.55
+23od3fs3g,Johnson,670.28
+96f55c7d8f42,Smith,583.35
+j323sdf93,Haley,270.4
