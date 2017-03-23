@@ -1,7 +1,7 @@
 How to run the program:
 -----------------------
 
-Example: python sfly_event_processing.py input.txt
+Example: python sfly_event_processing.py ../input/input.txt
 
 The events filename should be passed as a parameter to the script.
 The script will process the events in input.txt and calculate the LTV for each customer and will generate a file
