@@ -26,8 +26,10 @@ top_n_simple_ltv_customers function:
 Assumptions:
 	* Timeframe for the LTV calculation is determined as the weeks spanned by the earliest timestamp for a specific
 	 customer and the latest timestamped event in the input file.
+	 
 	* The de-duplication of events is done by the event key. The exception is only for customer and order event updates.
 	 These events are not considered as duplicates even when they have the same key.
+	 
 	* If an update event for an order is present, the total amount for the last update event is assumed to be the total
 	 value of that order.
    
