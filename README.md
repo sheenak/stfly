@@ -24,6 +24,7 @@ top_n_simple_ltv_customers function:
 
 
 Assumptions:
+
 	* Timeframe for the LTV calculation is determined as the weeks spanned by the earliest timestamp for a specific
 	 customer and the latest timestamped event in the input file.
 	 
